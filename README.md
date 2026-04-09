@@ -1,7 +1,7 @@
 # Ecommerce Logistics Analysis
 
 This repository contains a Jupyter notebook project analysing ecommerce
-logistics performance using the public Olist Brazilian ecommerce dataset.
+logistics performance for a reginal e-commerce platform.
 
 The main focus is understanding how orders move from purchase to delivery,
 what drives delivery delays, and how logistics performance relates to
@@ -36,12 +36,6 @@ customer satisfaction.
 4. Open the notebook in VS Code, JupyterLab, or another Jupyter environment
 	and run the cells from top to bottom.
 
-## Dataset
-
-The analysis uses the Olist Brazilian ecommerce public dataset, which includes
-tables for orders, customers, sellers, products, payments and reviews. These
-tables are combined to study logistics behaviour, delivery times and customer
-experience.
 
 ## Analysis Goals
 
@@ -49,7 +43,3 @@ experience.
 - Measure delivery delays and on‑time performance
 - Explore how logistics metrics relate to review scores
 - Provide visual insights that can inform logistics optimisation
-
-You can extend this project by adding more features, building predictive
-models (for example, delivery time prediction), or turning the analysis into
-dashboards for business stakeholders.
